@@ -1,0 +1,5 @@
+name: GodKingdoms
+version: '${version}'
+main: com.github.koryu.godkingdoms.GodKingdoms
+api-version: 1.18
+authors: [ Koryu25 ]
